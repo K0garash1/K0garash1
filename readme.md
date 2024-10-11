@@ -66,6 +66,6 @@ I enjoy learning a bunch of technologies but here are some of them
   </ul>
 </details>
 
-### Some stats
+## 📈 Some stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bs-arellano&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bs-arellano&theme=tokyonight)
