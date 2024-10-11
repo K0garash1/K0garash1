@@ -1,14 +1,72 @@
-<h1 align="center">Hi 👋, I'm Brayan Arellano</h1>
-<h3 align="center">A Software Engineering student at Universidad Distrital Francisco José de Caldas</h3>
+# Hi 👋
+I'm Brayan Arellano, a systems engineering student
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=k0garash1&show_icons=true&locale=en" alt="k0garash1" /></p>
+## 🎓 Student at Universidad Distrital
+
+I'm currently a Systems Engenieering student at [Universidad Distrital José de Caldas](www.udistrital.edu.co) based on Bogotá, Colombia.
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/brayan-arellano-020647252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brayan arellano" height="30" width="40" />Brayan Arellano</a>
-</p>
-<a href="mailto: brayanarellano1605@gmail.com"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Circle-icons-mail.svg" alt="brayan arellano" height="30" width="40" />brayanarellano1605@gmail.com</a>
+## ✉️ Contact me
+<a href="https://www.linkedin.com/in/brayan-arellano" style="display: flex; align-items: center; text-decoration: none;">
+  <img src="brand-linkedin.svg" width="30px" style="margin-right: 5px;">
+  <span>brayan-arellano</span>
+</a>
 
-<h3 align="left">Languages and Tools:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=k0garash1&show_icons=true&locale=en&layout=compact" alt="k0garash1" /></p>
+## 💻 Languages and tools
+I enjoy learning a bunch of technologies but here are some of them
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+  <div style="flex: 1; min-width: 300px;">
+    <details>
+      <summary>Dev Environment</summary>
+      <ul>
+        <li>Windows/Linux</li>
+        <li>VSCode</li>
+        <li>Google Colab</li>
+        <li>Git/Github</li>
+      </ul>
+    </details>
+    <details>
+      <summary>Backend</summary>
+      <ul>
+        <li>NodeJS + Express</li>
+        <li>Spring Boot</li>
+        <li>Flask</li>
+      </ul>
+    </details>
+    <details>
+      <summary>Frontend</summary>
+      <ul>
+        <li>React</li>
+        <li>Vite</li>
+        <li>Redux</li>
+        <li>Bootstrap</li>
+      </ul>
+    </details>
+    <details>
+      <summary>Database</summary>
+      <ul>
+        <li>PostgreSQL</li>
+        <li>MongoDB</li>
+      </ul>
+    </details>
+    <details>
+      <summary>Mobile</summary>
+      <ul>
+        <li>Flutter</li>
+        <li>Kotlin + Jetpack Compose</li>
+      </ul>
+    </details>
+    <details>
+      <summary>Others</summary>
+      <ul>
+        <li>Docker</li>
+        <li>Unity</li>
+        <li>C#</li>
+        <li>C++</li>
+      </ul>
+    </details>
+  </div>
+  <div style="flex: 1; min-width: 300px;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bs-arellano&theme=tokyonight" alt="GitHub Repos Per Language">
+  </div>
+</div>
