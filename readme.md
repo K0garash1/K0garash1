@@ -3,7 +3,7 @@ I'm Brayan Arellano, a systems engineering student
 
 ## 🎓 Student at Universidad Distrital
 
-I'm currently a Systems Engenieering student at [Universidad Distrital José de Caldas](www.udistrital.edu.co) based on Bogotá, Colombia.
+I'm currently a Systems Engenieering student at [Universidad Distrital José de Caldas](https://www.udistrital.edu.co) based on Bogotá, Colombia.
 
 ## ✉️ Contact me
 <a href="https://www.linkedin.com/in/brayan-arellano" style="display: flex; align-items: center; text-decoration: none;">
